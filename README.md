@@ -1,3 +1,7 @@
+> **This repo has moved into the verse.** Development continues at
+> [ceedot-rock/CuNIverse](https://github.com/ceedot-rock/CuNIverse), in folder transparency/.
+> This copy is archived and read-only - history preserved, nothing lost.
+
 # CuNi Transparency Log
 
 An append-only, Merkle-rooted (RFC 6962) public transparency log for
